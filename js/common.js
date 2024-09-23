@@ -1,34 +1,34 @@
 window.basic = {
-    "title": "박석범 ♥ 장세희 감사장",
+    "title": "강인규 ♥ 권한희 감사장",
     "groom": {
-        "name": "박석범",
-        "first_name": "석범",
+        "name": "강인규",
+        "first_name": "인규",
         "parents": {
             "father": {
-                "name": "박영조"
+                "name": "강병호"
             },
             "mother": {
-                "name": "오계자"
+                "name": "심순옥"
             }
         }
     },
     "bride": {
-        "name": "장세희",
-        "first_name": "세희",
+        "name": "️권한희",
+        "first_name": "한희",
         "parents": {
             "father": {
-                "name": "장우진"
+                "name": "권정태"
             },
             "mother": {
-                "name": "최연희"
+                "name": "조선영"
             }
         }
     },
-    "link": "https://saybeom.github.io/thanks",
+    "link": "https://inqhani.github.io/thanks",
     "kakao": {
         "description": "특별한 날, 소중한 시간을\n함께해주셔서 감사드립니다.",
         "button": "모바일 감사장 보기",
-        "img": "https://drive.google.com/u/0/drive-viewer/AKGpihbtwZ6Fie72RUSTs4zsrHbBZyOw3HvejeNhhi69Gn_7vh9uhwGdcxQdzouDWMM3Q6QuRq2TBgbXoxhrpaYeQGQxYz2lT3yfc3M=s1600-rw-v1"
+        "img": "https://lh3.googleusercontent.com/fife/ALs6j_HW2KL4PgZmnj-qQFbFX5rYUWJi6deyis6u3v6RnnMzCgtIODXYdNPHJuOdxNfMusCuomH33gzZqGyoAoUosMxJklVU5z9mKCQay_M8kaf_pZ5WBC4XUTnN5T7-YuUINrAoKyZ9YELBSxw_7N7eKUxQUi3rgfVD6zUWy45VHjzTTjS0mjSQGtBWvI597tOaAb0l9X2FRN0NPcsG-ZBOfPZe6ixu0y8TlcVZI74yvHEDNBjRe4nTD-pOtEmm02_SjjDZUZUoG7ORCkdahBIOFrd_FMRjj2V9v0tgBrWO26CcRm-Y-9OsN5XnCWiDGCTMu09wruI2aQqHrqFJ9PN_cArP0g_8Dm5N-boxHAeL39IphQ_GLwSBM2urbftf4SbPep-AEwyxYhVmgFIz_vMPhKjRhTZF5nsOhGYXLwyEBAbiuwjHjXmvDSTSUnSrXt7z4K-FucwoYIktUlfl9W78GUYtXICcSW2S_qGrq4X1dS7EbJvHkAHQVCGozMnIVh9OaMEcBrM8c4STN_Kbx87e22oZ29P3UND0PqhzZJrIKfBgW85SlMnK4Bo3sqJXi9iwrW3x1mJVCcb1fLX0qWs6KXDNnIQXNs6m15LurB6hr6Qfxe5Lau_zAOAJ4qgT1prMaRrY1RHRAZRj4epjXtcSrPclEXYW_O006s4iBFQ-EXcsU1ZT_AJP6e485rcVWS1E01B0eosDvj2JA60o70O2cAiiVyPJ-cDNXX89wjunJuANcUuWNH6EyRXVLMbmWNTj1l3iWAzDcfr2bsqMw3F2wr_6ICNLygrKcen8cS0CqF0tsvtgJZ2MoDe69ry5Smd4pADAUk5vzm6FcfpwbS0OXSqOZafMKap7tzmIhPtK5Lpgf6bWSPAaiZ2V9tB-xpYdPWxRH4z2XqenFFImbHPwG7oilQpr1OiTKB3Vyow9AHfZLM9CabgBwoMlgSCEctjKAs7_WEf4DaqArZqylwcQvaPbwZiiiFAx9BbKIhBoL69aC4YHUby5kkzAtoQJ-LvKZmA8gf1ODeaqEdJ4tktcAGfy9VSkmOjoqw_RXbhXp4Lb1mwdonsNs03xKoxaosbD1fEbgzPxgJr2HIf5tTOdalDd1vyP9XdxUgjH9DaznFnGiCdNm9hIfoqEhJp_3ti9v-P4S3Ptlg9oMI_cjtpqbwvN-RW83sXs-BkxLQ3JVQysmby1BzolfZ8olNHRcOsw1ATIRqT_31X7WbMqHh4UD2KzWSz7UrFGCGWKFmVrYKfYBF_ZFR7zCfsSqwQl_A1kF7PCNxqAYWEQXJmSRmbNaK-jQPSaIAZQSXD_II5oQTHMXyIiLoVqkvmI04fHUjn9LJ3xsTQK6bcI2--WttZLBg8wS6XaMr-3Y_pSKcohK7CSMQHvWV-92HX7InVXDGk9zDiTV2PA2suPZhefqY7MdTYTkiL0KddkcLHvT9dp6F9sxCqBZIs5YUVRcYdHugHOJ25abKhevcz_PMJa9EBj0cN6jy5vQFkOvThawWpQ61PitfRPwVG6PKhFfBmvTSfSGLwLXGw3KsJ5wQlxTVII0QdKMapXwFfuKt9fp7TWPO_7f5otkI-dUrqJRD5Hm-oKhutn-4a6RM7JVeWheyQ9mw=w1766-h1544"
     },
     "info": {
         "greeting": "저희 자녀의 결혼식에\n" +
@@ -71,7 +71,7 @@ function setText(){
 
     const urlParams = new URL(location.href).searchParams;
     const mode = urlParams.get('m');
-    if(mode=="p"){
+    if(mode=="i"){
         $("#mode-from").html('<span class="relation mr-5">혼주 </span>\n' +
             '        <div class="name-block">\n' +
             '            <div class="txt-groom-father"></div>\n' +
@@ -80,9 +80,9 @@ function setText(){
             '        <div class="name-block">\n' +
             '            <div class="txt-groom-mother"></div>\n' +
             '        </div>');
-        window.basic.link="https://saybeom.github.io/thanks?m=p";
+        window.basic.link="https://inqhani.github.io/thanks?m=i";
         $('#txt-greeting').html(window.basic.info.greeting);
-    }else if(mode=="j") {
+    }else if(mode=="h") {
         $("#mode-from").html('<span class="relation mr-5">혼주 </span>\n' +
             '        <span class="name-block">\n' +
             '            <span class="txt-bride-father"></span>\n' +
@@ -91,7 +91,7 @@ function setText(){
             '        <span class="name-block">\n' +
             '            <span class="txt-bride-mother"></span>\n' +
             '        </span>');
-        window.basic.link="https://saybeom.github.io/thanks?m=j";
+        window.basic.link="https://inqhani.github.io/thanks?m=h";
         $('#txt-greeting').html(window.basic.info.greeting);
     }else{
         $("#mode-from").html('<span class="relation">신랑 </span>\n' +
@@ -145,7 +145,7 @@ function copyLink(){
 
     let url = window.document.location.href;
     copyToClipboard(url);
-    alert('석범♥세희 감사장 주소가 복사되었습니다.');
+    alert('인규♥한희 감사장 주소가 복사되었습니다.');
 }
 
 function copyToClipboard(val) {
